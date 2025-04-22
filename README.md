@@ -1,6 +1,6 @@
 # TECNOLOGIAS HACKER - 2025.1 - Insper
-# Sérgio Carmelo - Engenharia da Computação
-# Roteiro 2 – App Reconhecimento do Alvo
+## Sérgio Carmelo - Engenharia da Computação
+## Roteiro 2 – App Reconhecimento do Alvo
 
 ### As respostas as perguntas de pesquisa estão no arquivo `research.md`.
 
