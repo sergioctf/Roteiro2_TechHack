@@ -10,6 +10,8 @@
 
 ### O README.md é o arquivo de apresentação do projeto, que também contém o resumo do manual do usuário e da documentação técnica.
 
+---
+
 ReconApp é uma ferramenta de linha de comando (CLI) modular em Python para a fase de reconhecimento em pentests.  
 Ela integra scripts de port scanning, enumeração de subdomínios, consultas WHOIS, coleta OSINT com theHarvester e detecção de WAF.
 
