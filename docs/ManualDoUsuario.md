@@ -15,7 +15,6 @@
    4.5. [Detecção de WAF](#detecção-de-waf)  
    4.6. [Versão](#versão)  
 5. [Exemplos de Fluxo](#exemplos-de-fluxo)  
-6. [Suporte](#suporte)
 
 ---
 
