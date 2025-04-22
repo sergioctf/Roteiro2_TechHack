@@ -1,0 +1,7 @@
+click>=8.0
+tabulate>=0.8
+python-whois>=0.7
+sublist3r>=1.0
+# theHarvester and wafw00f são ferramentas CLI externas:
+# pip install git+https://github.com/laramies/theHarvester.git
+# pip install wafw00f
