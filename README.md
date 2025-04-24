@@ -41,7 +41,7 @@ Ela integra scripts de port scanning, enumeração de subdomínios, consultas WH
 
 ```bash
 # 1. Clone o repositório
-git clone [https://github.com/sergioctf/reconapp.git](https://github.com/sergioctf/Roteiro2_TechHack/tree/main)
+git clone https://github.com/sergioctf/Roteiro2_TechHack/tree/main
 cd reconapp
 
 # 2. Crie e ative o ambiente virtual
@@ -82,29 +82,6 @@ Ela integra scripts de port scanning, enumeração de subdomínios, consultas WH
     ```bash
     pip install wafw00f
     ```
-
----
-
-## Instalação
-
-```bash
-# 1. Clone o repositório
-git clone https://github.com/sergioctf/Roteiro2_TechHack/tree/main
-cd reconapp
-
-# 2. Crie e ative o ambiente virtual
-python3 -m venv .venv
-source .venv/bin/activate
-
-# 3. Instale dependências Python
-pip install -r requirements.txt
-pip install -e .
-
-# 4. Instale CLIs externas
-pip install sublist3r
-pip install wafw00f
-pip install --ignore-requires-python git+https://github.com/laramies/theHarvester.git
-```
 
 ---
 
