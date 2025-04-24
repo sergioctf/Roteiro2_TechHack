@@ -89,7 +89,7 @@ Ela integra scripts de port scanning, enumeração de subdomínios, consultas WH
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/SEU_USUARIO/reconapp.git
+git clone https://github.com/sergioctf/Roteiro2_TechHack/tree/main
 cd reconapp
 
 # 2. Crie e ative o ambiente virtual
